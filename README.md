@@ -1,6 +1,6 @@
-# Airline Booking Database System
+# Airline Booking System
 
-The Airline Booking Database System is a project designed to manage and store data related to flights, passengers, reservations, and bookings. It provides functionality for airline employees to manage flight schedules, assign seats, and process reservations.
+The Airline Booking System is a project designed to manage and store data related to flights, passengers, reservations, and bookings. It provides functionality for airline employees to manage flight schedules, assign seats, and process reservations.
 
 ## Table of Contents
 
@@ -43,7 +43,7 @@ The following entities are used in the database system:
 
 ## Database Schema
 
-The database schema for the Airline Booking Database System can be found in the [schema.sql](./schema.sql) file.
+The database schema for the Airline Booking System can be found in the [schema.sql](./schema.sql) file.
 
 ## Usage
 
