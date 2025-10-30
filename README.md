@@ -54,8 +54,5 @@ The database schema for the Airline Booking Database System can be found in the 
 
 Contributions are welcome! If you find any issues or want to enhance the system, feel free to submit a pull request.
 
-## License
-
-[Insert License Here]
 
 
